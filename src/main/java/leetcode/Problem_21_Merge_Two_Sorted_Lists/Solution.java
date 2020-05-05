@@ -1,5 +1,7 @@
 package leetcode.Problem_21_Merge_Two_Sorted_Lists;
 
+import leetcode.common.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
