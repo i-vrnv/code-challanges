@@ -8,13 +8,15 @@ Solved:
 03.05.2020 - 28, 35
 05.05.2020 - 2!
 06.05.2020 - 7*
-```
+07.05.2020 - 3*
 
 Done by myself but need attention (*):
 7 - Should improve solution
+3 - Bad performance, check community solutions
 
 Done with help (!):
 2 - Improve LinkedList pointers
 
 Need attention:
 38
+```
