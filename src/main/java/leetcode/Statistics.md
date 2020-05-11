@@ -10,10 +10,11 @@ Solved:
 06.05.2020 - 7*
 07.05.2020 - 3*
 09.05.2020 - 5*
+11.05.2020 - 11*
 
 Done by myself but need attention (*):
 7 - Should improve solution
-3,5 - Bad performance, check community solutions
+3,5,11 - Bad performance, check community solutions
 
 Done with help (!):
 2 - Improve LinkedList pointers
