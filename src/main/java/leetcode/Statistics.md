@@ -11,6 +11,7 @@ Solved:
 07.05.2020 - 3*
 09.05.2020 - 5*
 11.05.2020 - 11
+13.05.2020 - 15!
 
 Done by myself but need attention (*):
 7 - Should improve solution
@@ -18,6 +19,7 @@ Done by myself but need attention (*):
 
 Done with help (!):
 2 - Improve LinkedList pointers
+15 - Repeat
 
 Need attention:
 38
