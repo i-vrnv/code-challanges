@@ -13,6 +13,7 @@ Solved:
 11.05.2020 - 11
 13.05.2020 - 15!
 16.05.2020 - 121*
+17.05.2020 - 104
 
 Done by myself but need attention (*):
 7 - Should improve solution
