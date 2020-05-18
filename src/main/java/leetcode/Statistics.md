@@ -14,7 +14,7 @@ Solved:
 13.05.2020 - 15!
 16.05.2020 - 121*
 17.05.2020 - 104
-18.05.2020 - 100
+18.05.2020 - 100, 206*
 
 Done by myself but need attention (*):
 7 - Should improve solution
