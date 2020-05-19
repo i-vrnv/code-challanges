@@ -33,3 +33,6 @@ Follow up:
 
 Can you solve it using O(1) (i.e. constant) memory?
 ```
+
+Solutions:
+* [HackerRank floyd's tortoise and hare](https://www.youtube.com/watch?v=MFOAbpfrJ8g)

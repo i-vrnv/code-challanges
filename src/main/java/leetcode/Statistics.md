@@ -15,7 +15,7 @@ Solved:
 16.05.2020 - 121*
 17.05.2020 - 104
 18.05.2020 - 100, 206*
-19.05.2020 - 141
+19.05.2020 - 141!
 
 Done by myself but need attention (*):
 7 - Should improve solution
@@ -24,6 +24,7 @@ Done by myself but need attention (*):
 Done with help (!):
 2 - Improve LinkedList pointers
 15 - Repeat
+141 - A brute force sloution has made by myself. Should repeat two pointes solution.
 
 Need attention:
 38
