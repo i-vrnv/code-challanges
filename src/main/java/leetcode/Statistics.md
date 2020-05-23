@@ -17,6 +17,7 @@ Solved:
 18.05.2020 - 100, 206*
 19.05.2020 - 141!,133!
 21.05.2020 - 23*
+23.05.2020 - 207!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -26,7 +27,8 @@ Done with help (!):
 2 - Improve LinkedList pointers
 15, 133 - Repeat
 141 - A brute force sloution has made by myself. Should repeat two pointes solution.
- 
+207 - Topological sort and graphs
+
 Need attention:
 38
 ```
