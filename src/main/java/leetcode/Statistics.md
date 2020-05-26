@@ -15,10 +15,10 @@ Solved:
 16.05.2020 - 121*
 17.05.2020 - 104
 18.05.2020 - 100, 206*
-19.05.2020 - 141!,133!
+19.05.2020 - 141!, 133!
 21.05.2020 - 23*
 23.05.2020 - 207!
-26.05.2020 - 70
+26.05.2020 - 70, 322!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -29,6 +29,7 @@ Done with help (!):
 15, 133 - Repeat
 141 - A brute force sloution has made by myself. Should repeat two pointes solution.
 207 - Topological sort and graphs
+322 - Dynamic programming
 
 Need attention:
 38
