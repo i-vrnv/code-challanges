@@ -18,6 +18,7 @@ Solved:
 19.05.2020 - 141!,133!
 21.05.2020 - 23*
 23.05.2020 - 207!
+26.05.2020 - 70
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
