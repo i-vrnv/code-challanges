@@ -19,6 +19,7 @@ Solved:
 21.05.2020 - 23*
 23.05.2020 - 207!
 26.05.2020 - 70, 322!
+01.06.2020 - 57!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -30,6 +31,7 @@ Done with help (!):
 141 - A brute force sloution has made by myself. Should repeat two pointes solution.
 207 - Topological sort and graphs
 322 - Dynamic programming
+57 - Greedy algorithms. I should repeat it well.
 
 Need attention:
 38
