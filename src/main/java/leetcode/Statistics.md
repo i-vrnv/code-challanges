@@ -21,6 +21,7 @@ Solved:
 26.05.2020 - 70, 322!
 01.06.2020 - 57!
 03.06.2020 - 371!
+04.06.2020 - 424!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -34,6 +35,7 @@ Done with help (!):
 322 - Dynamic programming
 57 - Greedy algorithms. I should repeat it well.
 371 - First bitwise problem
+424 - Sliding window first problem
 
 Need attention:
 38
