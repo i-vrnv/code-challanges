@@ -22,6 +22,7 @@ Solved:
 01.06.2020 - 57!
 03.06.2020 - 371!
 04.06.2020 - 424!
+10.06.2020 - 300!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -32,7 +33,7 @@ Done with help (!):
 15, 133 - Repeat
 141 - A brute force sloution has made by myself. Should repeat two pointes solution.
 207 - Topological sort and graphs
-322 - Dynamic programming
+322, 300 - Dynamic programming
 57 - Greedy algorithms. I should repeat it well.
 371 - First bitwise problem
 424 - Sliding window first problem
