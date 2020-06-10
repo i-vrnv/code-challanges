@@ -22,7 +22,7 @@ Solved:
 01.06.2020 - 57!
 03.06.2020 - 371!
 04.06.2020 - 424!
-10.06.2020 - 300!
+10.06.2020 - 300!, 226
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
