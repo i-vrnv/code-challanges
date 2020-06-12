@@ -23,6 +23,7 @@ Solved:
 03.06.2020 - 371!
 04.06.2020 - 424!
 10.06.2020 - 300!, 226
+12.06.2020 - 297!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -37,6 +38,7 @@ Done with help (!):
 57 - Greedy algorithms. I should repeat it well.
 371 - First bitwise problem
 424 - Sliding window first problem
+297 - Binary tree serialization deserialization
 
 Need attention:
 38
