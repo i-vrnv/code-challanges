@@ -18,6 +18,5 @@ Note:
 You may assume that you have an infinite number of each kind of coin.
 
 Solutions:
-[Back To Back SWE](https://www.youtube.com/watch?v=jgiZlGzXMBw)
-
-[Kevin Naughton Jr.](https://www.youtube.com/watch?v=1R0_7HqNaW0)
+* [Back To Back SWE](https://www.youtube.com/watch?v=jgiZlGzXMBw)
+* [Kevin Naughton Jr.](https://www.youtube.com/watch?v=1R0_7HqNaW0)

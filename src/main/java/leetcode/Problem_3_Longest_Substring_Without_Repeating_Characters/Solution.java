@@ -1,32 +1,22 @@
 package leetcode.Problem_3_Longest_Substring_Without_Repeating_Characters;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int maxCount = 0;
-        Set<Character> chars = new HashSet<>(26);
-        Map<Character, Integer> charPosition = new HashMap<>();
+        int i = 0, j = 0, max = 0;
+        Set<Character> set = new HashSet<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            char currChar = s.charAt(i);
-            if (chars.contains(currChar)) {
-                if (maxCount < chars.size()) {
-                    maxCount = chars.size();
-                }
-                chars.clear();
-                i = charPosition.get(currChar);
+        while (j < s.length()) {
+            if (!set.contains(s.charAt(j))) {
+                set.add(s.charAt(j++));
+                max = Math.max(max, set.size());
             } else {
-                chars.add(currChar);
-                charPosition.put(currChar, i);
+                set.remove(s.charAt(i++));
             }
         }
-        if (maxCount < chars.size()) {
-            maxCount = chars.size();
-        }
-        return maxCount;
+
+        return max;
     }
 }
