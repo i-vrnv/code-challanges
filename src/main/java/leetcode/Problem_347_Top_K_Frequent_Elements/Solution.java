@@ -1,42 +1,35 @@
 package leetcode.Problem_347_Top_K_Frequent_Elements;
 
-import leetcode.Problem_347_Top_K_Frequent_Elements.Solution.PrioritizedElement;
-
-import java.util.Objects;
-import java.util.PriorityQueue;
+import java.util.*;
 
 class Solution {
 
-    class PrioritizedElement {
-        int value;
-        int count;
-
-
-        public PrioritizedElement(int value, int count) {
-            this.value = value;
-            this.count = count;
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-            PrioritizedElement that = (PrioritizedElement) o;
-            return this.value == that.value;
-        }
-
-        @Override
-        public int hashCode() {
-            return Objects.hash(value);
-        }
-    }
-
     public int[] topKFrequent(int[] nums, int k) {
-        PriorityQueue<PrioritizedElement> pq = new PriorityQueue<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            PrioritizedElement(nums[i])
-
+        if (nums.length == k) {
+            return nums;
         }
+
+        Map<Integer, Integer> counts = new HashMap<>();
+
+        for (int num : nums) {
+            counts.put(num, counts.getOrDefault(num, 0) + 1);
+        }
+
+        Queue<Integer> heap = new PriorityQueue<>(Comparator.comparingInt(counts::get));
+
+        for (Integer n : counts.keySet()) {
+            heap.add(n);
+            if (heap.size() > k) {
+                heap.poll();
+            }
+        }
+
+        int[] top = new int[k];
+
+        for (int i = k - 1; i >= 0; --i) {
+            top[i] = heap.poll();
+        }
+
+        return top;
     }
 }
