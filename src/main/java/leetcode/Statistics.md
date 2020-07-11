@@ -26,6 +26,7 @@ Solved:
 12.06.2020 - 297!
 02.07.2020 - 347!
 04.07.2020 - 217
+11.07.2020 - 73!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -41,7 +42,8 @@ Done with help (!):
 371 - First bitwise problem
 424 - Sliding window first problem
 297 - Binary tree serialization deserialization
+73 - First matrix task
 
 Need attention:
-38
+38, 76
 ```
