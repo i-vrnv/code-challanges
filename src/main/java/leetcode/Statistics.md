@@ -26,7 +26,7 @@ Solved:
 12.06.2020 - 297!
 02.07.2020 - 347!
 04.07.2020 - 217
-11.07.2020 - 73!
+11.07.2020 - 73!, 53
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
@@ -46,4 +46,5 @@ Done with help (!):
 
 Need attention:
 38, 76
+53 - can be solved with the divide and conquer algo
 ```
