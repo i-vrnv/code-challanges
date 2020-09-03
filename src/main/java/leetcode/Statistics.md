@@ -29,6 +29,7 @@ Solved:
 11.07.2020 - 73!, 53, 83
 13.08.2020 - 66, 242
 01.09.2020 - 88
+03.09.2020 - 198
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
