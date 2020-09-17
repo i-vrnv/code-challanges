@@ -31,6 +31,7 @@ Solved:
 01.09.2020 - 88
 03.09.2020 - 198
 15.09.2020 - 101
+17.09.2020 - 24!
 
 Done by myself but need attention (*):
 7,23 - Should improve solution
