@@ -6,6 +6,7 @@ Solved:
 01.03.2022 - 217, 219
 07.03.2022 - 100
 14.03.2022 - 160
+16.03.2022 - 242
 
 Done by myself but need attention (*)
 160 - Repeat two pointer solution
